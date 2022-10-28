@@ -1,6 +1,8 @@
 # Hi there, I'm Adriaan. 👋
 
+
 #### I'm a full stack developer with a focus on front-end web apps. 
+
 
   <div> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   
@@ -17,7 +19,8 @@
 - a bitcoin trading journal with trade signals
 - my personal portfolio 
 
-**Say hi :**  <a href="https://twitter.com/adriaanl3" target="blank"><img src="https://img.shields.io/twitter/follow/adriaanl3?logo=twitter&style=for-the-badge" alt="adriaanl3" /></a> 
+**Say hi :**  
+  <a href="https://twitter.com/adriaanl3" target="blank"><img src="https://img.shields.io/twitter/follow/adriaanl3?logo=twitter&style=for-the-badge" alt="adriaanl3" /></a> 
 
 
 
