@@ -17,7 +17,8 @@
 </div>
 
 </br>
-**I'm currently working on:**
+
+### I'm currently working on:
 
 - a bitcoin trading journal with trade signals
 - my personal portfolio 
