@@ -20,8 +20,8 @@
 
 ### I'm currently working on:
 
-- a bitcoin trading journal with trade signals
-- my personal portfolio 
+- Some small projects to practice using T3app with typsescript and tailwind
+- My personal portfolio 
 
 **Say hi :**  
   <a href="https://twitter.com/adriaanl3" target="blank"><img src="https://img.shields.io/twitter/follow/adriaanl3?logo=twitter&style=for-the-badge" alt="adriaanl3" /></a> 
