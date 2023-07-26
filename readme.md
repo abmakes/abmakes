@@ -26,7 +26,7 @@
 **Say hi :**  
   <a href="https://twitter.com/adriaanl3" target="blank"><img src="https://img.shields.io/twitter/follow/adriaanl3?logo=twitter&style=for-the-badge" alt="adriaanl3" /></a> 
 
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64bf4ece263b0aea1d9ac727?variant=light)](https://roadmap.sh)
 
 
 
